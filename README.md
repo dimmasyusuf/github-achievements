@@ -70,6 +70,61 @@ By following this tutorial, you can earn GitHub achievements according to your s
 | :-: | :-: |
 | ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | YOLO |
 
+```bash
+1. Create Repository
+```
+```bash
+2. Go To Settings & Add Collaborator (Your Second Account)
+```
+![yolo1](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo1.png)
+```bash
+3. Make Sure Your Second Account Accept The Invitation
+```
+![yolo2](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo2.png)
+```bash
+4. Add New Branch
+```
+![yolo3](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo3.png)
+![yolo4](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo4.png)
+```bash
+5. Move to Second Branch
+```
+```bash
+6. Click Add File & Choose Create New File
+```
+![yolo5](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo5.png)
+```bash
+7. Name Your File & Type Text
+```
+```bash
+8. Click Commit New File
+```
+![yolo6](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo6.png)
+```bash
+9. Click Compare & Pull Request
+```
+![yolo7](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo7.png)
+```bash
+10. Leave A Title & Comment
+```
+```bash
+11. Add Reviewers (Your Second Account)
+```
+```bash
+12. Click Create Pull Request
+```
+![yolo8](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo8.png)
+```bash
+11. Click Merge Pull Request
+```
+![yolo9](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo9.png)
+```bash
+12. Check Your Profile
+```
+```bash
+13. If The Achievement Doesn't Appear, Make Sure Your Second Account Accept The Review (Check Notification)
+```
+
 <h2 id="pullShark">🦈 Pull Shark</h2>
 
 | Badge | Name |
