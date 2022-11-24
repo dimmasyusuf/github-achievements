@@ -77,15 +77,18 @@ By following this tutorial, you can earn GitHub achievements according to your s
 2. Go To Settings & Add Collaborator (Your Second Account)
 ```
 ![yolo1](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo1.png)
+
 ```bash
 3. Make Sure Your Second Account Accept The Invitation
 ```
 ![yolo2](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo2.png)
+
 ```bash
 4. Add New Branch
 ```
 ![yolo3](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo3.png)
 ![yolo4](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo4.png)
+
 ```bash
 5. Move to Second Branch
 ```
@@ -93,6 +96,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 6. Click Add File & Choose Create New File
 ```
 ![yolo5](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo5.png)
+
 ```bash
 7. Name Your File & Type Text
 ```
@@ -100,10 +104,12 @@ By following this tutorial, you can earn GitHub achievements according to your s
 8. Click Commit New File
 ```
 ![yolo6](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo6.png)
+
 ```bash
 9. Click Compare & Pull Request
 ```
 ![yolo7](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo7.png)
+
 ```bash
 10. Leave A Title & Comment
 ```
@@ -114,10 +120,12 @@ By following this tutorial, you can earn GitHub achievements according to your s
 12. Click Create Pull Request
 ```
 ![yolo8](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo8.png)
+
 ```bash
 11. Click Merge Pull Request
 ```
 ![yolo9](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo9.png)
+
 ```bash
 12. Check Your Profile
 ```
@@ -130,6 +138,68 @@ By following this tutorial, you can earn GitHub achievements according to your s
 | Badge | Name |
 | :-: | :-: |
 | ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | Pull Shark |
+
+```bash
+1. Open Your Second Account Repository (NOT FORK)
+```
+```bash
+2. Click Add File & Choose Create New File
+```
+![pullshark1](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark1.png)
+
+```bash
+3. Name Your File & Type Text
+```
+```bash
+4. Click Propose New File
+```
+```bash
+5. Create New File Once More (TWICE)
+```
+![pullshark2](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark2.png)
+
+```bash
+6. Click Compare & Pull Request (BOTH)
+```
+![pullshark3](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark3.png)
+
+```bash
+7. Leave A Title & Comment
+```
+```bash
+8. Click Create Pull Request
+```
+```bash
+9. Do It Once More (TWICE)
+```
+![pullshark4](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark4.png)
+![pullshark5](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark5.png)
+
+```bash
+10. Open Your Second Account
+```
+```bash
+11. Click Pull Requests Tab
+```
+```bash
+12. Click The Requests
+```
+![pullshark6](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark6.png)
+
+```bash
+11. Click Merge Pull Request
+```
+```bash
+12. Click Confirm Merge
+```
+```bash
+13. Do It Once More
+```
+![pullshark7](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark7.png)
+
+```bash
+14. Check Your Profile
+```
 
 <h2 id="galaxyBrain">🧠 Galaxy Brain</h2>
 
