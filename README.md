@@ -207,6 +207,90 @@ By following this tutorial, you can earn GitHub achievements according to your s
 | :-: | :-: |
 | ![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | Galaxy Brain |
 
+```bash
+1. Open Your Second Account Repository
+```
+```bash
+2. Go to Settings
+```
+```bash
+3. Checklist Discussions & Click Set Up Discussions
+```
+![galaxybrain1](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain1.png)
+
+```bash
+4. Click Start Discussion
+```
+![galaxybrain2](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain2.png)
+
+```bash
+5. Go to Discussion Tabs
+```
+```bash
+6. Click New Discussion
+```
+![galaxybrain3](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain3.png)
+
+```bash
+7. Choose Category Q&A
+```
+```bash
+8. Write The Title & Question
+```
+```bash
+9. Click Start Discussion
+```
+```bash
+10. Back to Discussion Tabs & Create New Discussion Once More
+```
+![galaxybrain4](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain4.png)
+![galaxybrain5](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain5.png)
+
+```bash
+11. Open Your First Account
+```
+```bash
+12. Open Second Account Repository Discussion
+```
+```bash
+13. Click The Question
+```
+![galaxybrain6](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain6.png)
+
+```bash
+14. Write The Answer
+```
+```bash
+15. Click Comment
+```
+```bash
+16. Do It Once More
+```
+![galaxybrain7](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain7.png)
+
+```bash
+17. Open Your Second Account 
+```
+```bash
+18. Open Your Second Account Repository Discussion
+```
+```bash
+19. Click The Question
+```
+![galaxybrain8](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain8.png)
+
+```bash
+20. Click Mark As Answer
+```
+```bash
+21. Do It Once More
+```
+![galaxybrain9](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain9.png)
+
+```bash
+21. Check Your Profile
+```
+
 <h2 id="pairExtraordinaire">🥜 Pair Extraordinaire</h2>
 
 | Badge | Name |
@@ -218,3 +302,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 | Badge | Name |
 | :-: | :-: |
 | ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | Starstruck |
+
+```bash
+Your Repository Needs to have 16 Stars !
+```
