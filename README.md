@@ -297,6 +297,46 @@ By following this tutorial, you can earn GitHub achievements according to your s
 | :-: | :-: |
 | ![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | Pair Extraordinaire |
 
+```bash
+1. Create A New Repo
+```
+
+```bash
+2. Open Your Second Account
+```
+
+```bash
+3. Fork That Repo With Your Second Account
+```
+
+```bash
+4. Create New File or Edit Existing File
+```
+
+```bash
+5. Click on Commit Changes Button 
+```
+
+```bash
+6. Give It A Title
+```
+
+```bash
+7. In Description Textbox, Type "Co-authored-by: yourname <name@example.com>"
+```
+
+```bash
+8. Click Commit changes or Propose changes
+```
+
+```bash
+9. Open/Create Pull Request From Your Second Account
+```
+
+```bash
+10. From Your Main Account, Accept That Pull Request 
+```
+
 <h2 id="starstruck">⭐ Starstruck</h2>
 
 | Badge | Name |
